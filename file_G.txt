@@ -1,4 +1,7 @@
 cloud computing
 python azure
 addon more
+
 AWS & GCC
+
+done C
